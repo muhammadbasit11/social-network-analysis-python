@@ -16,6 +16,6 @@ This project simulates core social network features using a JSON dataset and Pyt
 - Mutual connection analysis
 - Basic collaborative filtering
 
-## Notes
+## Note
 
 This project intentionally avoids Pandas/NumPy to strengthen core Python skills.
